@@ -1,0 +1,19 @@
+Jules contre les présidents
+
+Dans notre jeu vous incarnez Jules un étudiant d'EPITA qui va se battre contre
+différents présidents (Macron, Trump et Poutine).
+
+C'est un jeu tour par tour à l'instar de Pokemon.
+A chaque tour vous pouvez choisir entre les 4 compétences de Jules. Pour cela
+il suffit de taper '1', '2', '3' ou '4'. Après avoir combattu un Président
+Jules devient encore plus fort.
+
+Chaque président possède des caractéristiques et des compétences propres.
+
+Usage: python3 main.py
+
+AUTHORS: 
+Naod BEKELE
+Simon DEFOORT
+Pierre LOIZEAU
+Alexandre VOINIER
